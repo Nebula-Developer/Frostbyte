@@ -8,6 +8,11 @@ Frostbyte is an advanced terminal operating system designed for developers and p
 
 Frostbyte is currently in heavy development - it is in a pre-alpha state, and is not yet ready for public use. You should expect a release a beta version of Frostbyte in the near future, and a full release much later. Frostbyte is currently being developed and designed by myself, [NebulaDev](https://github.com/nebula-developer. I am not spesifically looking for contributors, but contributions and testers are welcome. If you are interested in helping out, please contact me at [nebuladev.contact@gmail.com](mailto:nebuladev.contact@gmail.com).
 
+
+## Documentation
+
+You can find the documentation for Frostbyte in the `docs/` directory. This documentation is currently very sparse, but will be updated as the project progresses.
+
 ## Building Frostbyte
 
 Frostbyte can be built from source using the following commands:
@@ -19,3 +24,5 @@ Frostbyte can be built from source using the following commands:
 ```
 
 ## License
+
+Frostbyte is licensed under the [MIT License](htt
