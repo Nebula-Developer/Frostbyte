@@ -10,4 +10,5 @@
 
 ## Contents
 
-* ### [Structure](structure/README.md)
+* ### [Structure](structure/README.md)  - Contains documentation for unreleased features.
+* ### [Terms](terms/README.md)          - Contains definitions for terms that are unique to Frostbyte.
