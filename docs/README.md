@@ -1,5 +1,13 @@
-# Frostbyte documentation
+# [FB](/README.md) Documentation
 
-This is the documentation for Frostbyte, and will be updated as the project progresses.
+### This is the documentation for Frostbyte, and will be updated as the project progresses.
 
-Currently, the documentation is very sparse, but you can find the structure documentation in the `structure/` directory. That will contain documentation for unreleased features, for the time being. This is mainly for management, but may be migrated into the main documentation in the future.
+<br>
+
+### The primary focus of the documentation lays in the [structure](structure/README.md) directory. This directory will contain documentation for unreleased features, and is mainly for management. Documentation from the structure directory may be migrated into the main documentation in the future.
+
+<br>
+
+## Contents
+
+* ### [Structure](structure/README.md)
