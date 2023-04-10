@@ -14,7 +14,7 @@ You can find the documentation for Frostbyte [Here](/docs/README.md). The docume
 
 ## When will Frostbyte be released?
 
-Frostbyte is currently in heavy development - it is in a pre-alpha state, and is not yet ready for public use. You should expect a release a beta version of Frostbyte in the near future, and a full release much later. Frostbyte is currently being developed and designed by myself, [NebulaDev](https://github.com/nebula-developer. I am not spesifically looking for contributors, but contributions and testers are welcome. If you are interested in helping out, please contact me at [nebuladev.contact@gmail.com](mailto:nebuladev.contact@gmail.com).
+Frostbyte is currently in heavy development - it is in a pre-alpha state, and is not yet ready for public use. You should expect a release a beta version of Frostbyte in the near future, and a full release much later. Frostbyte is currently being developed and designed by myself, [NebulaDev](https://github.com/nebula-developer). I am not spesifically looking for contributors, but contributions and testers are welcome. If you are interested in helping out, please contact me at [nebuladev.contact@gmail.com](mailto:nebuladev.contact@gmail.com).
 
 ## Building Frostbyte
 
