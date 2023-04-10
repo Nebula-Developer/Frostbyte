@@ -1,5 +1,6 @@
 # C# .gitignore
 **/bin/
 **/obj/
-obj
-bin
+obj/
+bin/
+build/
