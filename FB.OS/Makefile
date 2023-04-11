@@ -9,4 +9,4 @@ endif
 
 build:
 	$(MKDIR)
-	@dotnet build -c Release -o ../build -p:Platform=x64 -p:Configuration=Release -p:PublishSingleFile=true -p:PublishTrimmed=true -p:PublishReadyToRun=true -p:PublishReadyToRunShowWarnings=true -p:OutputType=Exe -p:AssemblyName=Frostbyte -nologo -clp:NoSummary -v:q
+	@dotnet build -c Release -o ../build -nologo -clp:NoSummary -v:q
